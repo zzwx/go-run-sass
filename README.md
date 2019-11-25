@@ -1,4 +1,9 @@
 # go-run-sass
 
-Just a command line tool to call go-libsass to generate css to avoid its constant recompilation
-when `github.com/wellington/go-libsass` is used as a library.
+A simple command line tool wrapper to generate css using `go-libsass` which otherwise recompiles the whole library when simply imported as `github.com/wellington/go-libsass`.
+
+Example:
+
+```go
+err := execute("go-run-sass", "-i", "./web/wireframe.scss", "-o", "./web/generated.css")
+```

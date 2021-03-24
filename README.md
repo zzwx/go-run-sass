@@ -8,7 +8,7 @@ imported as [github.com/wellington/go-libsass](github.com/wellington/go-libsass)
 ## Installation
 
 ```
-$ go get -u github.com/zzwx/go-run-sass
+$ go install github.com/zzwx/go-run-sass@latest
 ```
 
 ## Help

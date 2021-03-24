@@ -9,7 +9,7 @@ import (
 
 	"flag"
 
-	libsass "github.com/wellington/go-libsass"
+	"github.com/wellington/go-libsass"
 )
 
 // Usage prints how to use the command-line utility

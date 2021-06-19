@@ -2,8 +2,10 @@
 
 # go-run-sass
 
-A simple command line tool wrapper to generate css using `go-libsass`, which otherwise recompiles the whole library when simply
-imported as [`github.com/wellington/go-libsass`](https://github.com/wellington/go-libsass). The other workarounds are explained in go-libsass README. 
+A simple command line tool wrapper to generate css using `go-libsass`,
+which otherwise recompiles the whole library when simply
+imported as [`github.com/wellington/go-libsass`](https://github.com/wellington/go-libsass).
+The other workarounds are explained in `go-libsass` README. 
 
 ## Installation
 

@@ -1,4 +1,4 @@
-[![github.com/zzwx/go-run-sass](./doc/gobadge.svg)](https://pkg.go.dev/github.com/zzwx/go-run-sass)
+[![https://github.com/zzwx/go-run-sass](./doc/gobadge.svg)](https://pkg.go.dev/github.com/zzwx/go-run-sass)
 
 # go-run-sass
 
